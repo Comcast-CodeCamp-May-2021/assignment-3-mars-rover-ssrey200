@@ -18,5 +18,3 @@ jasmine.loadConfig({
 });
 
 jasmine.execute();
-
-//test
