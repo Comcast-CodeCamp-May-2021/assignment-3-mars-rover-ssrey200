@@ -26,9 +26,7 @@ class Rover {
         } else {
           resultsArray.push({completed: false});
         }
-            
       }
-      
       let messageObj = {
         message: message.name,
         results: resultsArray,
